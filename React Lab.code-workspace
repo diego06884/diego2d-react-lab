@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "cards-app"
+		},
+		{
+			"path": "jammming"
 		}
 	],
 	"settings": {}
